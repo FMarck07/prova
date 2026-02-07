@@ -44,3 +44,4 @@ return $callback($valore);
 }
 
 echo "modifica aggiunta";
+echo "aggiunta modifica da locale";
